@@ -1,0 +1,118 @@
+[
+    {
+        "data": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            },
+            {
+                "name": "address_owner",
+                "type": "felt"
+            }
+        ],
+        "keys": [],
+        "name": "event_created",
+        "type": "event"
+    },
+    {
+        "data": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            },
+            {
+                "name": "address_attendee",
+                "type": "felt"
+            }
+        ],
+        "keys": [],
+        "name": "rsvp_submitted",
+        "type": "event"
+    },
+    {
+        "data": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            },
+            {
+                "name": "address_attendee",
+                "type": "felt"
+            }
+        ],
+        "keys": [],
+        "name": "attendee_confirmed",
+        "type": "event"
+    },
+    {
+        "data": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            }
+        ],
+        "keys": [],
+        "name": "deposits_paid_out",
+        "type": "event"
+    },
+    {
+        "inputs": [],
+        "name": "constructor",
+        "outputs": [],
+        "type": "constructor"
+    },
+    {
+        "inputs": [],
+        "name": "create_new_event",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            }
+        ],
+        "name": "rsvp_to_event",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            },
+            {
+                "name": "address_attendee",
+                "type": "felt"
+            }
+        ],
+        "name": "confirm_attendee",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            }
+        ],
+        "name": "confirm_all_attendees",
+        "outputs": [],
+        "type": "function"
+    },
+    {
+        "inputs": [
+            {
+                "name": "id_event",
+                "type": "felt"
+            }
+        ],
+        "name": "withdraw_unclaimed_deposits",
+        "outputs": [],
+        "type": "function"
+    }
+]
