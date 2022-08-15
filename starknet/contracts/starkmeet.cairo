@@ -15,16 +15,35 @@ struct Event:
     member id: felt
     member address_owner: felt
 
-    member start_at: Uint256
-    member end_at: Uint256
+    member ipfs_hash: felt # retrieves data on IPFS
+
+    member timestamp_starts_at: Uint256
+    member timestamp_ends_at: Uint256
     
     member max_capacity: Uint256
     member total_deposits: Uint256
 
-    member confirmed_rsvps: Uint256
-    member claimed_rsvps: Uint256
+    member nb_confirmed_rsvps: Uint256
+    member nb_claimed_rsvps: Uint256
 
     member is_paid_out: felt # boolean
+end
+
+
+########################
+#       Mappings
+########################
+
+@storage_var
+func id_to_event(id: felt) -> (event: Event):
+end
+
+@storage_var
+func user_confirmations_for_event(id_event: felt, address_user: felt) -> (is_confirmed: felt):
+end
+
+@storage_var
+func user_claims_for_event(id_event: felt, address_user: felt) -> (is_claimed: felt):
 end
 
 
@@ -61,15 +80,6 @@ end
 
 
 ########################
-#       Mappings
-########################
-
-@storage_var
-func map_id_to_event(id: felt) -> (event: Event):
-end
-
-
-########################
 #      Constructor
 ########################
 
@@ -85,7 +95,11 @@ end
 ########################
 
 @external
-func create_new_event{}():
+func create_new_event{}(
+    starts_at: felt,
+    ends_at: felt,
+    max_capacity: felt
+):
     return ()
 end
 

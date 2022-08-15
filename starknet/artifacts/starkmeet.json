@@ -572,36 +572,36 @@
                     "hints": [],
                     "inst": {
                         "end_col": 36,
-                        "end_line": 76,
+                        "end_line": 85,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "parent_location": [
                                     {
                                         "end_col": 14,
-                                        "end_line": 78,
+                                        "end_line": 87,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 78
+                                        "start_line": 87
                                     },
                                     "While trying to retrieve the implicit argument 'syscall_ptr' in:"
                                 ],
                                 "start_col": 18,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While expanding the reference 'syscall_ptr' in:"
                         ],
                         "start_col": 18,
-                        "start_line": 76
+                        "start_line": 85
                     }
                 },
                 "15": {
@@ -614,36 +614,36 @@
                     "hints": [],
                     "inst": {
                         "end_col": 64,
-                        "end_line": 76,
+                        "end_line": 85,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 64,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "parent_location": [
                                     {
                                         "end_col": 14,
-                                        "end_line": 78,
+                                        "end_line": 87,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 78
+                                        "start_line": 87
                                     },
                                     "While trying to retrieve the implicit argument 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 38,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While expanding the reference 'pedersen_ptr' in:"
                         ],
                         "start_col": 38,
-                        "start_line": 76
+                        "start_line": 85
                     }
                 },
                 "16": {
@@ -656,36 +656,36 @@
                     "hints": [],
                     "inst": {
                         "end_col": 81,
-                        "end_line": 76,
+                        "end_line": 85,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "parent_location": [
                             {
                                 "end_col": 81,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "parent_location": [
                                     {
                                         "end_col": 14,
-                                        "end_line": 78,
+                                        "end_line": 87,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 5,
-                                        "start_line": 78
+                                        "start_line": 87
                                     },
                                     "While trying to retrieve the implicit argument 'range_check_ptr' in:"
                                 ],
                                 "start_col": 66,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While expanding the reference 'range_check_ptr' in:"
                         ],
                         "start_col": 66,
-                        "start_line": 76
+                        "start_line": 85
                     }
                 },
                 "17": {
@@ -698,12 +698,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 78,
+                        "end_line": 87,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 78
+                        "start_line": 87
                     }
                 },
                 "18": {
@@ -724,12 +724,12 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While handling calldata of"
                         ],
@@ -755,7 +755,7 @@
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -769,12 +769,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -784,7 +784,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 18,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -810,7 +810,7 @@
                         "parent_location": [
                             {
                                 "end_col": 64,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -824,12 +824,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -839,7 +839,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 38,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -865,7 +865,7 @@
                         "parent_location": [
                             {
                                 "end_col": 81,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -879,12 +879,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -894,7 +894,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 66,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -913,12 +913,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 17,
-                        "end_line": 76,
+                        "end_line": 85,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 76
+                        "start_line": 85
                     }
                 },
                 "24": {
@@ -940,12 +940,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 17,
-                                        "end_line": 76,
+                                        "end_line": 85,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 76
+                                        "start_line": 85
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -964,12 +964,12 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -995,7 +995,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1009,12 +1009,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1024,7 +1024,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1050,7 +1050,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1064,12 +1064,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1079,7 +1079,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1105,7 +1105,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1119,12 +1119,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1134,7 +1134,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1160,7 +1160,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1174,12 +1174,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1189,7 +1189,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1215,7 +1215,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1229,12 +1229,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1244,7 +1244,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1270,7 +1270,7 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1284,12 +1284,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 17,
-                                                "end_line": 76,
+                                                "end_line": 85,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 76
+                                                "start_line": 85
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1299,7 +1299,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1325,12 +1325,12 @@
                         "parent_location": [
                             {
                                 "end_col": 17,
-                                "end_line": 76,
+                                "end_line": 85,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 76
+                                "start_line": 85
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1348,12 +1348,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 88,
+                        "end_line": 97,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 88
+                        "start_line": 97
                     }
                 },
                 "35": {
@@ -1374,12 +1374,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While handling calldata of"
                         ],
@@ -1398,12 +1398,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 22,
-                        "end_line": 87,
+                        "end_line": 96,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 87
+                        "start_line": 96
                     }
                 },
                 "38": {
@@ -1425,12 +1425,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 22,
-                                        "end_line": 87,
+                                        "end_line": 96,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 87
+                                        "start_line": 96
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -1449,12 +1449,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1480,7 +1480,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1494,12 +1494,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1509,7 +1509,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1535,7 +1535,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1549,12 +1549,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1564,7 +1564,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1590,7 +1590,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1604,12 +1604,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1619,7 +1619,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1645,7 +1645,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1659,12 +1659,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1674,7 +1674,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1700,7 +1700,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1714,12 +1714,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1729,7 +1729,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1755,7 +1755,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1769,12 +1769,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 87,
+                                                "end_line": 96,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 87
+                                                "start_line": 96
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1784,7 +1784,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1810,12 +1810,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 87,
+                                "end_line": 96,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 87
+                                "start_line": 96
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -1833,12 +1833,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 93,
+                        "end_line": 102,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 93
+                        "start_line": 102
                     }
                 },
                 "49": {
@@ -1859,7 +1859,7 @@
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1873,7 +1873,7 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
@@ -1887,12 +1887,12 @@
                                                         "parent_location": [
                                                             {
                                                                 "end_col": 19,
-                                                                "end_line": 92,
+                                                                "end_line": 101,
                                                                 "input_file": {
                                                                     "filename": "contracts/starkmeet.cairo"
                                                                 },
                                                                 "start_col": 6,
-                                                                "start_line": 92
+                                                                "start_line": 101
                                                             },
                                                             "While handling calldata of"
                                                         ],
@@ -1902,7 +1902,7 @@
                                                     "While expanding the reference '__calldata_actual_size' in:"
                                                 ],
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While handling calldata of"
                                         ],
@@ -1912,7 +1912,7 @@
                                     "While expanding the reference '__calldata_ptr' in:"
                                 ],
                                 "start_col": 22,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -1938,12 +1938,12 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While handling calldata of"
                         ],
@@ -1969,7 +1969,7 @@
                         "parent_location": [
                             {
                                 "end_col": 36,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -1983,12 +1983,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -1998,7 +1998,7 @@
                                     "While expanding the reference '__calldata_arg_id_event' in:"
                                 ],
                                 "start_col": 22,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -2017,12 +2017,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 19,
-                        "end_line": 92,
+                        "end_line": 101,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 92
+                        "start_line": 101
                     }
                 },
                 "55": {
@@ -2044,12 +2044,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 19,
-                                        "end_line": 92,
+                                        "end_line": 101,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 92
+                                        "start_line": 101
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -2068,12 +2068,12 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2099,7 +2099,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2113,12 +2113,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2128,7 +2128,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2154,7 +2154,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2168,12 +2168,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2183,7 +2183,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2209,7 +2209,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2223,12 +2223,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2238,7 +2238,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2264,7 +2264,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2278,12 +2278,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2293,7 +2293,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2319,7 +2319,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2333,12 +2333,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2348,7 +2348,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2374,7 +2374,7 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2388,12 +2388,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 19,
-                                                "end_line": 92,
+                                                "end_line": 101,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 92
+                                                "start_line": 101
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2403,7 +2403,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2429,12 +2429,12 @@
                         "parent_location": [
                             {
                                 "end_col": 19,
-                                "end_line": 92,
+                                "end_line": 101,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 92
+                                "start_line": 101
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2452,12 +2452,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 98,
+                        "end_line": 107,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 98
+                        "start_line": 107
                     }
                 },
                 "66": {
@@ -2478,7 +2478,7 @@
                         "parent_location": [
                             {
                                 "end_col": 63,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2492,7 +2492,7 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
@@ -2506,12 +2506,12 @@
                                                         "parent_location": [
                                                             {
                                                                 "end_col": 22,
-                                                                "end_line": 97,
+                                                                "end_line": 106,
                                                                 "input_file": {
                                                                     "filename": "contracts/starkmeet.cairo"
                                                                 },
                                                                 "start_col": 6,
-                                                                "start_line": 97
+                                                                "start_line": 106
                                                             },
                                                             "While handling calldata of"
                                                         ],
@@ -2521,7 +2521,7 @@
                                                     "While expanding the reference '__calldata_actual_size' in:"
                                                 ],
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While handling calldata of"
                                         ],
@@ -2531,7 +2531,7 @@
                                     "While expanding the reference '__calldata_ptr' in:"
                                 ],
                                 "start_col": 41,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While handling calldata argument 'address_attendee'"
                         ],
@@ -2557,12 +2557,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While handling calldata of"
                         ],
@@ -2588,7 +2588,7 @@
                         "parent_location": [
                             {
                                 "end_col": 39,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2602,12 +2602,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2617,7 +2617,7 @@
                                     "While expanding the reference '__calldata_arg_id_event' in:"
                                 ],
                                 "start_col": 25,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -2643,7 +2643,7 @@
                         "parent_location": [
                             {
                                 "end_col": 63,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2657,12 +2657,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2672,7 +2672,7 @@
                                     "While expanding the reference '__calldata_arg_address_attendee' in:"
                                 ],
                                 "start_col": 41,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While handling calldata argument 'address_attendee'"
                         ],
@@ -2691,12 +2691,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 22,
-                        "end_line": 97,
+                        "end_line": 106,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 97
+                        "start_line": 106
                     }
                 },
                 "73": {
@@ -2718,12 +2718,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 22,
-                                        "end_line": 97,
+                                        "end_line": 106,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 97
+                                        "start_line": 106
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -2742,12 +2742,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2773,7 +2773,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2787,12 +2787,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2802,7 +2802,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2828,7 +2828,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2842,12 +2842,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2857,7 +2857,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2883,7 +2883,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2897,12 +2897,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2912,7 +2912,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2938,7 +2938,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -2952,12 +2952,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -2967,7 +2967,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -2993,7 +2993,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3007,12 +3007,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3022,7 +3022,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3048,7 +3048,7 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3062,12 +3062,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 22,
-                                                "end_line": 97,
+                                                "end_line": 106,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 97
+                                                "start_line": 106
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3077,7 +3077,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3103,12 +3103,12 @@
                         "parent_location": [
                             {
                                 "end_col": 22,
-                                "end_line": 97,
+                                "end_line": 106,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 97
+                                "start_line": 106
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3126,12 +3126,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 103,
+                        "end_line": 112,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 103
+                        "start_line": 112
                     }
                 },
                 "84": {
@@ -3152,7 +3152,7 @@
                         "parent_location": [
                             {
                                 "end_col": 44,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3166,7 +3166,7 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
@@ -3180,12 +3180,12 @@
                                                         "parent_location": [
                                                             {
                                                                 "end_col": 27,
-                                                                "end_line": 102,
+                                                                "end_line": 111,
                                                                 "input_file": {
                                                                     "filename": "contracts/starkmeet.cairo"
                                                                 },
                                                                 "start_col": 6,
-                                                                "start_line": 102
+                                                                "start_line": 111
                                                             },
                                                             "While handling calldata of"
                                                         ],
@@ -3195,7 +3195,7 @@
                                                     "While expanding the reference '__calldata_actual_size' in:"
                                                 ],
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While handling calldata of"
                                         ],
@@ -3205,7 +3205,7 @@
                                     "While expanding the reference '__calldata_ptr' in:"
                                 ],
                                 "start_col": 30,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -3231,12 +3231,12 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While handling calldata of"
                         ],
@@ -3262,7 +3262,7 @@
                         "parent_location": [
                             {
                                 "end_col": 44,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3276,12 +3276,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3291,7 +3291,7 @@
                                     "While expanding the reference '__calldata_arg_id_event' in:"
                                 ],
                                 "start_col": 30,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -3310,12 +3310,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 27,
-                        "end_line": 102,
+                        "end_line": 111,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 102
+                        "start_line": 111
                     }
                 },
                 "90": {
@@ -3337,12 +3337,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 27,
-                                        "end_line": 102,
+                                        "end_line": 111,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 102
+                                        "start_line": 111
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -3361,12 +3361,12 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3392,7 +3392,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3406,12 +3406,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3421,7 +3421,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3447,7 +3447,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3461,12 +3461,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3476,7 +3476,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3502,7 +3502,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3516,12 +3516,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3531,7 +3531,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3557,7 +3557,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3571,12 +3571,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3586,7 +3586,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3612,7 +3612,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3626,12 +3626,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3641,7 +3641,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3667,7 +3667,7 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3681,12 +3681,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 27,
-                                                "end_line": 102,
+                                                "end_line": 111,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 102
+                                                "start_line": 111
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3696,7 +3696,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3722,12 +3722,12 @@
                         "parent_location": [
                             {
                                 "end_col": 27,
-                                "end_line": 102,
+                                "end_line": 111,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 102
+                                "start_line": 111
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -3745,12 +3745,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 14,
-                        "end_line": 108,
+                        "end_line": 117,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 5,
-                        "start_line": 108
+                        "start_line": 117
                     }
                 },
                 "101": {
@@ -3771,7 +3771,7 @@
                         "parent_location": [
                             {
                                 "end_col": 50,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3785,7 +3785,7 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
@@ -3799,12 +3799,12 @@
                                                         "parent_location": [
                                                             {
                                                                 "end_col": 33,
-                                                                "end_line": 107,
+                                                                "end_line": 116,
                                                                 "input_file": {
                                                                     "filename": "contracts/starkmeet.cairo"
                                                                 },
                                                                 "start_col": 6,
-                                                                "start_line": 107
+                                                                "start_line": 116
                                                             },
                                                             "While handling calldata of"
                                                         ],
@@ -3814,7 +3814,7 @@
                                                     "While expanding the reference '__calldata_actual_size' in:"
                                                 ],
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While handling calldata of"
                                         ],
@@ -3824,7 +3824,7 @@
                                     "While expanding the reference '__calldata_ptr' in:"
                                 ],
                                 "start_col": 36,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -3850,12 +3850,12 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While handling calldata of"
                         ],
@@ -3881,7 +3881,7 @@
                         "parent_location": [
                             {
                                 "end_col": 50,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -3895,12 +3895,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -3910,7 +3910,7 @@
                                     "While expanding the reference '__calldata_arg_id_event' in:"
                                 ],
                                 "start_col": 36,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While handling calldata argument 'id_event'"
                         ],
@@ -3929,12 +3929,12 @@
                     "hints": [],
                     "inst": {
                         "end_col": 33,
-                        "end_line": 107,
+                        "end_line": 116,
                         "input_file": {
                             "filename": "contracts/starkmeet.cairo"
                         },
                         "start_col": 6,
-                        "start_line": 107
+                        "start_line": 116
                     }
                 },
                 "107": {
@@ -3956,12 +3956,12 @@
                                 "parent_location": [
                                     {
                                         "end_col": 33,
-                                        "end_line": 107,
+                                        "end_line": 116,
                                         "input_file": {
                                             "filename": "contracts/starkmeet.cairo"
                                         },
                                         "start_col": 6,
-                                        "start_line": 107
+                                        "start_line": 116
                                     },
                                     "While constructing the external wrapper for:"
                                 ],
@@ -3980,12 +3980,12 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4011,7 +4011,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4025,12 +4025,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4040,7 +4040,7 @@
                                     "While expanding the reference 'syscall_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4066,7 +4066,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4080,12 +4080,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4095,7 +4095,7 @@
                                     "While expanding the reference 'pedersen_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4121,7 +4121,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4135,12 +4135,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4150,7 +4150,7 @@
                                     "While expanding the reference 'range_check_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4176,7 +4176,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4190,12 +4190,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4205,7 +4205,7 @@
                                     "While expanding the reference 'ecdsa_ptr' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4231,7 +4231,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4245,12 +4245,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4260,7 +4260,7 @@
                                     "While expanding the reference 'retdata_size' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4286,7 +4286,7 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
@@ -4300,12 +4300,12 @@
                                         "parent_location": [
                                             {
                                                 "end_col": 33,
-                                                "end_line": 107,
+                                                "end_line": 116,
                                                 "input_file": {
                                                     "filename": "contracts/starkmeet.cairo"
                                                 },
                                                 "start_col": 6,
-                                                "start_line": 107
+                                                "start_line": 116
                                             },
                                             "While constructing the external wrapper for:"
                                         ],
@@ -4315,7 +4315,7 @@
                                     "While expanding the reference 'retdata' in:"
                                 ],
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4341,12 +4341,12 @@
                         "parent_location": [
                             {
                                 "end_col": 33,
-                                "end_line": 107,
+                                "end_line": 116,
                                 "input_file": {
                                     "filename": "contracts/starkmeet.cairo"
                                 },
                                 "start_col": 6,
-                                "start_line": 107
+                                "start_line": 116
                             },
                             "While constructing the external wrapper for:"
                         ],
@@ -4510,23 +4510,31 @@
                         "cairo_type": "felt",
                         "offset": 1
                     },
-                    "end_at": {
-                        "cairo_type": "starkware.cairo.common.uint256.Uint256",
-                        "offset": 4
-                    },
                     "id": {
                         "cairo_type": "felt",
                         "offset": 0
                     },
                     "is_paid_out": {
                         "cairo_type": "felt",
-                        "offset": 10
+                        "offset": 14
                     },
                     "max_capacity": {
                         "cairo_type": "starkware.cairo.common.uint256.Uint256",
                         "offset": 6
                     },
-                    "start_at": {
+                    "nb_claimed_rsvps": {
+                        "cairo_type": "starkware.cairo.common.uint256.Uint256",
+                        "offset": 12
+                    },
+                    "nb_confirmed_rsvps": {
+                        "cairo_type": "starkware.cairo.common.uint256.Uint256",
+                        "offset": 10
+                    },
+                    "timestamp_ends_at": {
+                        "cairo_type": "starkware.cairo.common.uint256.Uint256",
+                        "offset": 4
+                    },
+                    "timestamp_starts_at": {
                         "cairo_type": "starkware.cairo.common.uint256.Uint256",
                         "offset": 2
                     },
@@ -4535,8 +4543,12 @@
                         "offset": 8
                     }
                 },
-                "size": 11,
+                "size": 15,
                 "type": "struct"
+            },
+            "__main__.FALSE": {
+                "destination": "starkware.cairo.common.bool.FALSE",
+                "type": "alias"
             },
             "__main__.HashBuiltin": {
                 "destination": "starkware.cairo.common.cairo_builtins.HashBuiltin",
@@ -4544,6 +4556,10 @@
             },
             "__main__.SignatureBuiltin": {
                 "destination": "starkware.cairo.common.cairo_builtins.SignatureBuiltin",
+                "type": "alias"
+            },
+            "__main__.TRUE": {
+                "destination": "starkware.cairo.common.bool.TRUE",
                 "type": "alias"
             },
             "__main__.Uint256": {
@@ -4810,46 +4826,46 @@
                 "destination": "starkware.starknet.common.syscalls.get_contract_address",
                 "type": "alias"
             },
-            "__main__.map_id_to_event": {
+            "__main__.id_to_event": {
                 "type": "namespace"
             },
-            "__main__.map_id_to_event.Args": {
-                "full_name": "__main__.map_id_to_event.Args",
+            "__main__.id_to_event.Args": {
+                "full_name": "__main__.id_to_event.Args",
                 "members": {},
                 "size": 0,
                 "type": "struct"
             },
-            "__main__.map_id_to_event.HashBuiltin": {
+            "__main__.id_to_event.HashBuiltin": {
                 "destination": "starkware.cairo.common.cairo_builtins.HashBuiltin",
                 "type": "alias"
             },
-            "__main__.map_id_to_event.ImplicitArgs": {
-                "full_name": "__main__.map_id_to_event.ImplicitArgs",
+            "__main__.id_to_event.ImplicitArgs": {
+                "full_name": "__main__.id_to_event.ImplicitArgs",
                 "members": {},
                 "size": 0,
                 "type": "struct"
             },
-            "__main__.map_id_to_event.Return": {
+            "__main__.id_to_event.Return": {
                 "cairo_type": "()",
                 "type": "type_definition"
             },
-            "__main__.map_id_to_event.SIZEOF_LOCALS": {
+            "__main__.id_to_event.SIZEOF_LOCALS": {
                 "type": "const",
                 "value": 0
             },
-            "__main__.map_id_to_event.hash2": {
+            "__main__.id_to_event.hash2": {
                 "destination": "starkware.cairo.common.hash.hash2",
                 "type": "alias"
             },
-            "__main__.map_id_to_event.normalize_address": {
+            "__main__.id_to_event.normalize_address": {
                 "destination": "starkware.starknet.common.storage.normalize_address",
                 "type": "alias"
             },
-            "__main__.map_id_to_event.storage_read": {
+            "__main__.id_to_event.storage_read": {
                 "destination": "starkware.starknet.common.syscalls.storage_read",
                 "type": "alias"
             },
-            "__main__.map_id_to_event.storage_write": {
+            "__main__.id_to_event.storage_write": {
                 "destination": "starkware.starknet.common.syscalls.storage_write",
                 "type": "alias"
             },
@@ -4923,6 +4939,92 @@
             "__main__.rsvp_to_event.SIZEOF_LOCALS": {
                 "type": "const",
                 "value": 0
+            },
+            "__main__.user_claims_for_event": {
+                "type": "namespace"
+            },
+            "__main__.user_claims_for_event.Args": {
+                "full_name": "__main__.user_claims_for_event.Args",
+                "members": {},
+                "size": 0,
+                "type": "struct"
+            },
+            "__main__.user_claims_for_event.HashBuiltin": {
+                "destination": "starkware.cairo.common.cairo_builtins.HashBuiltin",
+                "type": "alias"
+            },
+            "__main__.user_claims_for_event.ImplicitArgs": {
+                "full_name": "__main__.user_claims_for_event.ImplicitArgs",
+                "members": {},
+                "size": 0,
+                "type": "struct"
+            },
+            "__main__.user_claims_for_event.Return": {
+                "cairo_type": "()",
+                "type": "type_definition"
+            },
+            "__main__.user_claims_for_event.SIZEOF_LOCALS": {
+                "type": "const",
+                "value": 0
+            },
+            "__main__.user_claims_for_event.hash2": {
+                "destination": "starkware.cairo.common.hash.hash2",
+                "type": "alias"
+            },
+            "__main__.user_claims_for_event.normalize_address": {
+                "destination": "starkware.starknet.common.storage.normalize_address",
+                "type": "alias"
+            },
+            "__main__.user_claims_for_event.storage_read": {
+                "destination": "starkware.starknet.common.syscalls.storage_read",
+                "type": "alias"
+            },
+            "__main__.user_claims_for_event.storage_write": {
+                "destination": "starkware.starknet.common.syscalls.storage_write",
+                "type": "alias"
+            },
+            "__main__.user_confirmations_for_event": {
+                "type": "namespace"
+            },
+            "__main__.user_confirmations_for_event.Args": {
+                "full_name": "__main__.user_confirmations_for_event.Args",
+                "members": {},
+                "size": 0,
+                "type": "struct"
+            },
+            "__main__.user_confirmations_for_event.HashBuiltin": {
+                "destination": "starkware.cairo.common.cairo_builtins.HashBuiltin",
+                "type": "alias"
+            },
+            "__main__.user_confirmations_for_event.ImplicitArgs": {
+                "full_name": "__main__.user_confirmations_for_event.ImplicitArgs",
+                "members": {},
+                "size": 0,
+                "type": "struct"
+            },
+            "__main__.user_confirmations_for_event.Return": {
+                "cairo_type": "()",
+                "type": "type_definition"
+            },
+            "__main__.user_confirmations_for_event.SIZEOF_LOCALS": {
+                "type": "const",
+                "value": 0
+            },
+            "__main__.user_confirmations_for_event.hash2": {
+                "destination": "starkware.cairo.common.hash.hash2",
+                "type": "alias"
+            },
+            "__main__.user_confirmations_for_event.normalize_address": {
+                "destination": "starkware.starknet.common.storage.normalize_address",
+                "type": "alias"
+            },
+            "__main__.user_confirmations_for_event.storage_read": {
+                "destination": "starkware.starknet.common.syscalls.storage_read",
+                "type": "alias"
+            },
+            "__main__.user_confirmations_for_event.storage_write": {
+                "destination": "starkware.starknet.common.syscalls.storage_write",
+                "type": "alias"
             },
             "__main__.withdraw_unclaimed_deposits": {
                 "decorators": [
@@ -5173,6 +5275,14 @@
             "starkware.cairo.common.bitwise.BitwiseBuiltin": {
                 "destination": "starkware.cairo.common.cairo_builtins.BitwiseBuiltin",
                 "type": "alias"
+            },
+            "starkware.cairo.common.bool.FALSE": {
+                "type": "const",
+                "value": 0
+            },
+            "starkware.cairo.common.bool.TRUE": {
+                "type": "const",
+                "value": 1
             },
             "starkware.cairo.common.cairo_builtins.BitwiseBuiltin": {
                 "full_name": "starkware.cairo.common.cairo_builtins.BitwiseBuiltin",
